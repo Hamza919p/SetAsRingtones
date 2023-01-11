@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/bg_round_corners_12.xml" value="0.1735" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/ic_search.xml" value="0.1735" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/ic_selected_music.xml" value="0.1365" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/ic_unselected_music.xml" value="0.1365" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/ic_white_music.xml" value="0.1365" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/ic_white_play_btn.xml" value="0.1365" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/drawable/linear_gradient_1.xml" value="0.1365" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/activity_category_detail.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/activity_main.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/activity_player.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/activity_search.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/banner_ad.xml" value="0.153125" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/fragment_best_tones.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/fragment_category_latest_tones.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/fragment_featured_tones.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/fragment_latest_tones.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/load_more.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/player.xml" value="0.25" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/layout/progress_dialog.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/menu/app_bar.xml" value="0.1921875" />
+        <entry key="..\:/Users/AndroidDev/AndroidStudioProjects/SetAsRingtone/app/src/main/res/menu/ringtone_types.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_player.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/banner_ad.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/player.xml" value="0.19479166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="@string/title_home"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/channel"
+        android:title="@string/title_channel"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_channels"/>
+
+    <item android:id="@+id/category"
+        android:title="@string/title_category"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item android:id="@+id/settings"
+        android:title="@string/title_settings"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>

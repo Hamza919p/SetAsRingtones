@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".fragments.home.LatestTonesFragment">
+
+    <data>
+        <variable
+            name="latest_tones"
+            type="com.wmt.setasringtones.viewModels.fragments.home.HomeFragmentsViewModel" />
+    </data>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/tv_empty"
+                style="@style/semi_bold_text_style"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/primary"
+                android:gravity="center"
+                android:visibility="gone"
+                android:text="@string/no_data"
+                />
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_latest_tones"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</layout>

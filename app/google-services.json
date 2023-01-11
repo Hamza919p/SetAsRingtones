@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284916703646",
+    "firebase_url": "https://setasringtones.firebaseio.com",
+    "project_id": "setasringtones",
+    "storage_bucket": "setasringtones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284916703646:android:c77b6ed0ae9a8c294a368f",
+        "android_client_info": {
+          "package_name": "com.sik.setasringtones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284916703646-nohdjc6pqupse1rrso8ng45dvobpaa6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27BaCEynvhbrMoSYr6_hLoFefjsen-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284916703646-nohdjc6pqupse1rrso8ng45dvobpaa6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

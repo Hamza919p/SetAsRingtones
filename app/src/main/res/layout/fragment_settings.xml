@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/semi_bold_text_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:includeFontPadding="false"
+            android:padding="@dimen/_13sdp"
+            android:text="@string/general"
+            android:textColor="@color/primary"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_terms_of_service"
+                style="@style/semi_bold_text_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:includeFontPadding="false"
+                android:paddingStart="@dimen/_23sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="@dimen/_17sdp"
+                android:paddingBottom="@dimen/_10sdp"
+                android:text="@string/terms_of_service"
+                android:textColor="@color/unselected_tab_text"
+                android:textSize="17sp"
+                app:drawableEndCompat="@drawable/ic_grey_forward" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1sdp"
+                android:background="@color/unselected_tab_text" />
+
+            <TextView
+                android:id="@+id/tv_contact_us"
+                style="@style/semi_bold_text_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:includeFontPadding="false"
+                android:paddingStart="@dimen/_23sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="@dimen/_17sdp"
+                android:paddingBottom="@dimen/_10sdp"
+                android:text="@string/contact_us"
+                android:textColor="@color/unselected_tab_text"
+                android:textSize="17sp"
+                app:drawableEndCompat="@drawable/ic_grey_forward" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1sdp"
+                android:background="@color/unselected_tab_text" />
+
+            <TextView
+                android:id="@+id/tv_privacy_policy"
+                style="@style/semi_bold_text_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:includeFontPadding="false"
+                android:paddingStart="@dimen/_23sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="@dimen/_17sdp"
+                android:paddingBottom="@dimen/_10sdp"
+                android:text="@string/privacy_policy"
+                android:textColor="@color/unselected_tab_text"
+                android:textSize="17sp"
+                app:drawableEndCompat="@drawable/ic_grey_forward" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1sdp"
+                android:background="@color/unselected_tab_text" />
+
+            <TextView
+                android:id="@+id/tv_clear_cache"
+                style="@style/semi_bold_text_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:includeFontPadding="false"
+                android:paddingStart="@dimen/_23sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingEnd="@dimen/_17sdp"
+                android:paddingBottom="@dimen/_10sdp"
+                android:text="@string/clear_cache"
+                android:textColor="@color/unselected_tab_text"
+                android:textSize="17sp"
+                app:drawableEndCompat="@drawable/ic_grey_forward" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_app_version"
+            style="@style/semi_bold_text_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:padding="@dimen/_10sdp"
+            android:text="App version: 1.0.0"
+            android:textColor="@color/primary"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+</layout>
